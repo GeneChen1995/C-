@@ -7,6 +7,7 @@
   例子:
   1.給定A = [4,2,5,8,7,3,7]，函數應該返回2。我們可以找到兩個偶數對:(A[0],A[1])和(A[4],A[5])。選擇兩隊的另一種方式是(A[0],A[1])和(A[5],A[6])。
   ![image](https://github.com/GeneChen1996/C_language_practice_questions/blob/main/%E9%A1%8C%E7%9B%AE1%E7%A4%BA%E6%84%8F%E5%9C%96_1.JPG)
+  <img src="[images/cover.png](https://github.com/GeneChen1996/C_language_practice_questions/blob/main/%E9%A1%8C%E7%9B%AE1%E7%A4%BA%E6%84%8F%E5%9C%96_1.JPG)" alt="Cover" width="50%"/>
   
   2.給定A = [14,21,16,35,22]，該函數應該返回1。只有一對符合條件(A[0],A[4])。
   ![image](https://github.com/GeneChen1996/C_language_practice_questions/blob/main/%E9%A1%8C%E7%9B%AE1%E7%A4%BA%E6%84%8F%E5%9C%96_2.JPG)
